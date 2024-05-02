@@ -22,7 +22,7 @@ To run the program, follow these steps:
 1. Clone the project from [GitHub](https://github.com/rajatjc/RustPassword).
 2. Navigate to the project directory in your terminal.
 3. Run `cargo build --release` to compile the project.
-4. Execute the compiled binary using `./target/release/rust_password_vault`.
+4. Execute the compiled binary using `./target/release/RustPassword`.
 
 ### Menu Options
 
