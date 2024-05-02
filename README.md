@@ -40,10 +40,10 @@ To run the program, follow these steps:
    ![List Entries](https://github.com/rajatjc/RustPassword/blob/main/raw/main/images/2.png)
 
 3. Failed Search
-   ![Failed Search](https://github.com/rajatjc/RustPassword/blob/main/raw/main/images3.png)
+   ![Failed Search](https://github.com/rajatjc/RustPassword/blob/main/raw/main/images/3.png)
 
 4. Search Found
-   ![Search Found](https://github.com/rajatjc/RustPassword/blob/main/raw/main/images4.png)
+   ![Search Found](https://github.com/rajatjc/RustPassword/blob/main/raw/main/images/4.png)
 
 5. Goodbye
    ![Goodbye](https://github.com/rajatjc/RustPassword/blob/main/raw/main/images/5.png)
